@@ -1,6 +1,6 @@
 # VOICE-AGENT
 
-A smart voice assistant that interacts like a call center agent — designed to help and guide users through business-related tasks. This project combines modern voice interaction capabilities with a powerful backend and responsive frontend.
+A smart voice assistant that interacts like a call center agent — designed to help and guide users through business-related tasks. 
 
 ## 🔊 About the Project
 
